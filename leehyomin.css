@@ -1,0 +1,88 @@
+td {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+
+    text-align : right;
+    font-size: 30px;
+}
+
+
+
+section{
+
+
+    border : 10px solid aliceblue;
+    margin : 10px;
+    font-size: 50px;
+}
+
+ol{
+    text-align : left;
+}
+
+html, body {
+    background-color: #333;
+
+}
+.masthead {
+    margin-bottom: 2rem;
+  }
+  
+  .masthead-brand {
+      text-align:center;
+      color:beige;
+      font-size : 50px;
+
+  }
+  
+  .nav-masthead .nav-link {
+    
+    padding: .25rem 0;
+    font-weight: 700;
+    color: rgba(255, 255, 255, .5);
+    background-color: transparent;
+    border-bottom: .25rem solid transparent;
+  }
+  
+  .nav-masthead .nav-link:hover,
+  .nav-masthead .nav-link:focus {
+    
+    border-bottom-color: rgba(255, 255, 255, .25);
+  }
+  
+  .nav-masthead .nav-link + .nav-link {
+    margin-left: 1rem;
+  }
+  
+  .nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+  }
+  .cover {
+    padding: 0 1.5rem;
+  }
+  .cover .btn-lg {
+    padding: .75rem 1.25rem;
+    font-weight: 700;
+  }
+  
+  
+  /*
+   * Footer
+   */
+  .mastfoot {
+    color: rgba(255, 255, 255, .5);
+  }
+  
+.Likey , .video{
+
+    font-size:20px;
+    color:cadetblue;
+  }
